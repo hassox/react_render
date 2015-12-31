@@ -1,0 +1,21 @@
+{
+  "name": "react_render",
+  "version": "1.0.0",
+  "description": "**TODO: Add description**",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jsonstream": "^1.0.3"
+  },
+  "devDependencies": {
+    "event-stream": "^3.3.2",
+    "jsonstream": "^1.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
